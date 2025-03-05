@@ -101,5 +101,50 @@
 
 <br clear="both">
 
+# 💫 About Me:
+💗 Hi, I'm NavSans (Amir)!<br>
+🚀 Passionate about web and mobile development<br>
+😍 Currently learning backend development & React Native<br>
+🛠️ Exploring Assembly (NASM) and improving my low-level programming skills
 
-###
+# 💻 What I Do:
+📱 Mobile Development – React Native (learning)<br>
+🌐 Web Development – React, Next.js, Tailwind CSS<br>
+🛠️ Backend – Learning databases, authentication, and server-side development<br>
+🔬 Low-Level Programming – NASM, C, C++, and exploring system-level programming
+
+# 🎯 Current Goals:
+🔥 Master React Native & backend development<br>
+💰 Build & monetize useful apps<br>
+🚀 Improve problem-solving & algorithmic thinking
+
+# 📫 Let's Connect!
+Feel free to check out my projects or reach out! 🚀<br>
+Email: amirlebbaz@gmail.com
+
+# 💻 Currently Working With:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+# 🛠️ Previously Used & Familiar With:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+# 💡 Tech I Wanna Learn:
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amir-lebbaz&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
